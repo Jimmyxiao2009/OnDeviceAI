@@ -1,0 +1,15 @@
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.GeneratedMSBuildEditorConfig.editorconfig
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.AssemblyInfoInputs.cache
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.AssemblyInfo.cs
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.csproj.CoreCompileInputs.cache
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\bge.embmodel
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\TestOnEmbedder.exe
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\TestOnEmbedder.deps.json
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\TestOnEmbedder.runtimeconfig.json
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\TestOnEmbedder.dll
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\bin\Release\net8.0\TestOnEmbedder.pdb
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.dll
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\refint\TestOnEmbedder.dll
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.pdb
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\TestOnEmbedder.genruntimeconfig.cache
+E:\User Files\Desktop\项目\言枢AI\OnDeviceAI\test\obj\Release\net8.0\ref\TestOnEmbedder.dll
