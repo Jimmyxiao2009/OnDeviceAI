@@ -1,3 +1,5 @@
+> **本项目已归档，已被 [OnDeviceAI2](https://github.com/Jimmyxiao2009/OnDeviceAI2) 取代**（后者包含本仓库的嵌入引擎，并新增 Qwen3.5-0.8B 端侧 LLM 推理）。
+
 # OnDeviceAI — W10M 本地嵌入模型推理引擎
 
 在 Windows 10 Mobile 上通过 Direct3D 11 Compute Shader 运行嵌入模型，
